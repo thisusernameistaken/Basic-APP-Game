@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SwattheFlyActivity!</string>
+    <string name="app_name">Swat the Fly</string>
+    <string name="title">Ant Attack</string>
+    <string name="name">By Chris Issing</string>
+    <string name="nothing"></string>
+    <string name="Start">Start</string>
+    <string name="Option">Options</string>
+    <string name="About">About</string>
+    <string name="High">"Highscore: "</string>
+    <string name="AboutPrompt">About Ant Attack</string>
+    <string name="AboutInfo">In Ant Attack, your house has been invaded by ants and you have to kill all the ants with out killing any of your hamsters. Tap the ants on the screen to kill them, kill as many as you can withhout hurting the hamsters. Created by Chris Issing.</string>
+    <string name="Back">Back</string>
+
+</resources>
